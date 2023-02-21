@@ -6,8 +6,5 @@ This repository contains the code for my project **Rakuten-France-Multimodal-Pro
 
 The goal of this project is to **predict each product’s type code as defined in the catalog of Rakuten France**. More info : [challengedata](https://challengedata.ens.fr/challenges/35)
 
-You can browse and run the [notebooks](./notebooks). You will need to install the dependencies (in a dedicated environment) :
+You can browse and run the [notebooks](./notebooks).
 
-```
-pip install -r requirements.txt
-```
